@@ -9,6 +9,8 @@ main {
     margin: 3rem auto;
     max-width: 90vw;
     width: 50ch;
+    border: 1px salmon;
+
 }
 h1 {
     color: #333
